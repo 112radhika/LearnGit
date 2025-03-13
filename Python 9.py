@@ -24,7 +24,7 @@ def multiply(*numbers):
     print("The product is ",m)
 multiply(2,3,-6,8)
 multiply(2,5,8,9,8,6)
-
+#testing to commit
 def format_name(f_name,l_name):
     if f_name==' ' and l_name==' ':
         return "Please enter a valid name"
