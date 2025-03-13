@@ -14,6 +14,8 @@ print(type(c))
 print(type(d))
 
 # List operations
+# List operations
+
 names = ['dev', 'devootan', 'devansh']
 print(names[0]) # dev
 print(names[-1])  # to get the last item in the list use -1 =>devansh
